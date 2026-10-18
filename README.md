@@ -151,5 +151,3 @@ The notebooks and predictive-modelling scripts require appropriately prepared fe
 This work was completed as a final-year BSc Artificial Intelligence project at **King's College London**, supervised by **Dr Héctor Menéndez**. It was informed by earlier clinical NLP research, including the work of **Sarah E. Morgan and colleagues** on discourse-level markers in transcribed speech.
 
 The Reddit data source and portions of the compressed-archive streaming approach are associated with [Arthur Heitmann's Arctic Shift project](https://github.com/ArthurHeitmann/arctic_shift). `speechgraph` is an external dependency. Please consult the respective upstream repositories and licence terms before redistributing or adapting third-party code.
-
-**Project report:** *A Framework for Analysing Discourse- and Structure-Level Linguistic Features for Depression Detection in Social Media Text* (April 2026).
