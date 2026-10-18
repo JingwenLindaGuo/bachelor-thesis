@@ -1,0 +1,39 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments and credentials
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+*.zst
+*.jsonl
+*.parquet
+raw_data/
+datasets/
+
+# Sample JSON containing text and identifiers
+/feature extraction/sample_input_output/*.json
+/feature analysis/sample_input_output/*.json
+/filtering modules/sample json files/*.json

@@ -1,0 +1,2 @@
+feature_set,model,n_features,features_used,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std
+set_a,dummy_model,2,"f1, f2",0.75,0.07071067811865482,0.75,0.21213203435596428,0.75,0.14142135623730948,0.85,0.14142135623730948

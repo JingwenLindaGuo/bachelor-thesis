@@ -1,0 +1,4 @@
+fastcoref
+benepar
+nltk
+git+https://github.com/facuzeta/speechgraph/

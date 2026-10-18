@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+gensim
+nltk
+spacy
+benepar
+fastcoref
+git+https://github.com/facuzeta/speechgraph/

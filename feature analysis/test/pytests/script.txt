@@ -1,0 +1,6 @@
+run the following scribe in feature analysis folder:
+
+python -m pytest test/pytests/test_rate_normalization.py -q
+python -m pytest test/pytests/test_feature_visual_analysis.py -q
+python -m pytest test/pytests/test_feature_relationship_analysis.py -q
+python -m pytest test/pytests/test_covariate_sensitivity.py -q
